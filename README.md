@@ -1,10 +1,12 @@
 Hello, world!
 
-Meu nome é Theodoro Gaspar Ferreira e sou estudante de Ciência da Computação na Unijuí.
+Meu nome é Theodoro Gaspar Ferreira, sou estudante de Ciência da Computação na Unijuí e estagiário na Compass.uol.
 
 📚Estou estudando Java e programação orientada à objetos;
 
 💻E-mail: theogferreira@outlook.com
+
+💻Acadêmico: theodoro.ferreira@sou.unijui.edu.br
 
 💻LinkedIn: https://www.linkedin.com/in/theodoro-ferreira-b3597622b/
 
