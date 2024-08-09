@@ -1,4 +1,4 @@
-Back End Developer | Java | SpringBoot
+Back End Developer | Java | Spring Boot
 
 💻Email: theogferreira@outlook.com
 
