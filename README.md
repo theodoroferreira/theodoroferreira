@@ -1,9 +1,7 @@
 Back-End Developer | Java | Spring Boot
 
 💻Email: theogferreira@outlook.com
-
-[LinkedIn Profile](https://www.linkedin.com/in/theodoro-ferreira-b3597622b/)
-[Instagram Profile](https://www.instagram.com/theodorogferreira/)
+👨‍💻Linkedin: https://www.instagram.com/theodorogferreira
 
 <div align="center">
   <a href="https://github.com/theodoroferreira">
