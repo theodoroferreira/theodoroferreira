@@ -2,14 +2,14 @@ Back-End Developer | Java | Spring Boot
 
 💻Email: theogferreira@outlook.com
 
-👨‍💻Linkedin: https://www.instagram.com/theodorogferreira
+👨‍💻Linkedin: https://www.linkedin.com/in/theodoro-ferreira-b3597622b/
 
 🌐Website: https://theodoroferreira.dev
 
 <div align="center">
   <a href="https://github.com/theodoroferreira">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=theodoroferreira&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoroferreira&layout=compact&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=theodoroferreira&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoroferreira&layout=donut&theme=tokyonight"/>
   </a>
 </div>
 
