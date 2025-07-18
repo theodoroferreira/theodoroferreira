@@ -1,4 +1,4 @@
-## Backend Developer | Java | Spring Boot
+## Backend Developer | Java | Spring Boot | AWS Certified
 
 - 💻Email: theogferreira@outlook.com
 
