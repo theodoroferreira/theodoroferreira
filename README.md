@@ -16,10 +16,10 @@
 
 <div align="center">
   <a href="https://github.com/theodoroferreira">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=theodoroferreira&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <img height="165em" align="center" src="https://github-readme-stats-theodoro-ferreiras-projects.vercel.app/api?username=theodoroferreira&show_icons=true&theme=tokyonight&rank_icon=github"/>
   </a>
   <a href="https://github.com/theodoroferreira">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoroferreira&layout=donut&theme=tokyonight"/>
+    <img height="165em" align="center" src="https://github-readme-stats-theodoro-ferreiras-projects.vercel.app/api/top-langs/?username=theodoroferreira&layout=donut&theme=tokyonight"/>
   </a>
 </div>
 
