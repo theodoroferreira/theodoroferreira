@@ -7,7 +7,7 @@
 - 🌐Website: https://www.theodoroferreira.dev
 
 - 🛠️Technical Stack:
-  - Languages: Java, Python, Go, SQL
+  - Languages: Java, TypeScript, Python, SQL
   - Frameworks & Libraries: Spring Boot, Spring MVC, Spring WebFlux, JUnit, Mockito
   - Databases: PostgreSQL, MySQL (SQL); MongoDB (NoSQL)
   - Cloud & DevOps: AWS (Certified Cloud & AI Practitioner), Docker, Git, Maven, Gradle
@@ -26,7 +26,7 @@
 <div style="display: inline_block; align-content: center;" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Junit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
